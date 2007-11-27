@@ -1,6 +1,6 @@
 #summary Further Information for Student Contestants
 
-*Please leave this wiki page as is for folks to review.  You're welcome to [http://code.google.com/p/ospo-program-sandbox/w/edit add other pages] so you can experiment and learn how the wiki works.*
+*Please leave this wiki page as is for folks to review.  You're welcome to [http://code.google.com/p/google-highly-open-participation-plone/w/edit add other pages] so you can experiment and learn how the wiki works.*
 
 = Further Information for Student Contestants =
 
