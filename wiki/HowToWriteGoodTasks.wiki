@@ -11,7 +11,8 @@
 = Task template =
 
 *Task title*
-A short description of what the task entails
+
+A short description of what the task entails.
 
 *Task description*
 
