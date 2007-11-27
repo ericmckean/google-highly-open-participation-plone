@@ -38,4 +38,12 @@ The person we should list as the "owner" of the task, who will monitor student s
 
 = Good task examples =
 
-= "Less good" ;) task examples =
+  * [http://code.google.com/p/google-highly-open-participation-plone/issues/detail?id=3 Produce a set of realistic JMeter performance test plans] — Setting up a testing suite is not Plone-specific, so this task has value for the student even after the project is over.
+  * [http://code.google.com/p/google-highly-open-participation-plone/issues/detail?id=17 Create a new theme for Plone] — this is a highly valuable contribution to the project, and doesn't even require design skills, since they are porting an existing theme. Has pretty thorough existing documentation — and CSS skills are valuable in any project, so it gives the student great value too.
+  * [http://code.google.com/p/google-highly-open-participation-plone/issues/detail?id=35 Merge documentation issue tracker into main issue tracker] — High-value, low threshold task with detailed instructions on how to do it.
+
+= "Less good" task examples =
+
+  * Rewrite the Publisher machinery — obviously much too complex for someone new to Plone, and assumes too much prior knowledge.
+  * Fix five pieces of documentation — too broad and unspecified, instead locate documents where it would make a huge difference if somebody improved it.
+  * Create a blog product — there's already enough of this type of projects. ;)
