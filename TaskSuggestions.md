@@ -1,0 +1,1 @@
+If you have suggestions for new tasks, add a comment! Your suggestion will be evaluated, and added to the main issue tracker if it's deemed to be a good fit for our students. :)
